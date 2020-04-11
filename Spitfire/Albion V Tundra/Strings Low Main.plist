@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Articulations</key>
+	<array>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>1</integer>
+			<key>ID</key>
+			<integer>1001</integer>
+			<key>Name</key>
+			<string>Flautando CS Long</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>4</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>2</integer>
+			<key>ID</key>
+			<integer>1002</integer>
+			<key>Name</key>
+			<string>Flautando CS Short</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>42</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>3</integer>
+			<key>ID</key>
+			<integer>1003</integer>
+			<key>Name</key>
+			<string>Frozen Long</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>7</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>4</integer>
+			<key>ID</key>
+			<integer>1004</integer>
+			<key>Name</key>
+			<string>Frozen Short</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>45</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>5</integer>
+			<key>ID</key>
+			<integer>1005</integer>
+			<key>Name</key>
+			<string>Gypsy Long</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>9</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>6</integer>
+			<key>ID</key>
+			<integer>1006</integer>
+			<key>Name</key>
+			<string>Gypsy Short</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>46</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>7</integer>
+			<key>ID</key>
+			<integer>1007</integer>
+			<key>Name</key>
+			<string>Dbl Stop 5th Long</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>6</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>8</integer>
+			<key>ID</key>
+			<integer>1008</integer>
+			<key>Name</key>
+			<string>Dbl Stop 5th Short</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>44</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>9</integer>
+			<key>ID</key>
+			<integer>1009</integer>
+			<key>Name</key>
+			<string>Super Tasto Long</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>16</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>10</integer>
+			<key>ID</key>
+			<integer>1010</integer>
+			<key>Name</key>
+			<string>Super Tasto Short</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>50</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>11</integer>
+			<key>ID</key>
+			<integer>1011</integer>
+			<key>Name</key>
+			<string>Air And Ice</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>12</integer>
+			<key>ID</key>
+			<integer>1012</integer>
+			<key>Name</key>
+			<string>Air And Ice Tratto</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>13</integer>
+			<key>ID</key>
+			<integer>1013</integer>
+			<key>Name</key>
+			<string>Gypsy Harmonics</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>8</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>14</integer>
+			<key>ID</key>
+			<integer>1014</integer>
+			<key>Name</key>
+			<string>Gypsy Harmonics Trem</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>32</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>15</integer>
+			<key>ID</key>
+			<integer>1015</integer>
+			<key>Name</key>
+			<string>Sul Ponte CS</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>5</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>16</integer>
+			<key>ID</key>
+			<integer>1016</integer>
+			<key>Name</key>
+			<string>Brushed Sul Ponte CS</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>44</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>17</integer>
+			<key>ID</key>
+			<integer>1017</integer>
+			<key>Name</key>
+			<string>Silken CS Long</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>14</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>18</integer>
+			<key>ID</key>
+			<integer>1018</integer>
+			<key>Name</key>
+			<string>Silken CS Short</string>
+			<key>Output</key>
+			<array>
+				<dict>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>41</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Tundra Strings Low.plist</string>
+	<key>Switches</key>
+	<array/>
+</dict>
+</plist>

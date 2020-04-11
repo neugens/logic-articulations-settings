@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Articulations</key>
+	<array>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>1</integer>
+			<key>ID</key>
+			<integer>1001</integer>
+			<key>Name</key>
+			<string>Long Alternative</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>12</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>2</integer>
+			<key>ID</key>
+			<integer>1002</integer>
+			<key>Name</key>
+			<string>Long</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>13</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>3</integer>
+			<key>ID</key>
+			<integer>1003</integer>
+			<key>Name</key>
+			<string>Long Harmonics</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>14</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>4</integer>
+			<key>ID</key>
+			<integer>1004</integer>
+			<key>Name</key>
+			<string>Long Sul Ponte</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>15</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>5</integer>
+			<key>ID</key>
+			<integer>1005</integer>
+			<key>Name</key>
+			<string>Long Sul Ponte Distorted</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>16</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>6</integer>
+			<key>ID</key>
+			<integer>1006</integer>
+			<key>Name</key>
+			<string>Tremolo Sul Tasto</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>17</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>7</integer>
+			<key>ID</key>
+			<integer>1007</integer>
+			<key>Name</key>
+			<string>Tremolo</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>18</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>8</integer>
+			<key>ID</key>
+			<integer>1008</integer>
+			<key>Name</key>
+			<string>Pizzicato</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>19</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+			<key>Symbol</key>
+			<string>Pizzicato (Left Hand)</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>9</integer>
+			<key>ID</key>
+			<integer>1009</integer>
+			<key>Name</key>
+			<string>Pizzicato Dumped</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>20</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+			<key>Symbol</key>
+			<string>Pizzicato (Left Hand)</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>10</integer>
+			<key>ID</key>
+			<integer>1010</integer>
+			<key>Name</key>
+			<string>Spiccato</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>21</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+			<key>Symbol</key>
+			<string>Marcatissimo</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>11</integer>
+			<key>ID</key>
+			<integer>1011</integer>
+			<key>Name</key>
+			<string>Brushed Spiccato</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>22</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+			<key>Symbol</key>
+			<string>Marcato</string>
+		</dict>
+		<dict>
+			<key>ArticulationID</key>
+			<integer>12</integer>
+			<key>ID</key>
+			<integer>1012</integer>
+			<key>Name</key>
+			<string>Staccato Dig</string>
+			<key>Output</key>
+			<dict>
+				<key>MB1</key>
+				<integer>23</integer>
+				<key>Status</key>
+				<string>Note On</string>
+			</dict>
+			<key>Symbol</key>
+			<string>Staccatissimo</string>
+		</dict>
+	</array>
+	<key>Name</key>
+	<string>Artisan Bass.plist</string>
+	<key>Switches</key>
+	<array/>
+</dict>
+</plist>
