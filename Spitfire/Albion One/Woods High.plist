@@ -12,14 +12,16 @@
 			<key>Name</key>
 			<string>Short</string>
 			<key>Output</key>
-			<dict>
-				<key>MB1</key>
-				<integer>0</integer>
-				<key>Status</key>
-				<string>Note On</string>
-				<key>ValueLow</key>
-				<integer>0</integer>
-			</dict>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>40</integer>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
@@ -29,14 +31,16 @@
 			<key>Name</key>
 			<string>Long</string>
 			<key>Output</key>
-			<dict>
-				<key>MB1</key>
-				<integer>1</integer>
-				<key>Status</key>
-				<string>Note On</string>
-				<key>ValueLow</key>
-				<integer>0</integer>
-			</dict>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>1</integer>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
@@ -46,14 +50,16 @@
 			<key>Name</key>
 			<string>Short Arranged</string>
 			<key>Output</key>
-			<dict>
-				<key>MB1</key>
-				<integer>2</integer>
-				<key>Status</key>
-				<string>Note On</string>
-				<key>ValueLow</key>
-				<integer>0</integer>
-			</dict>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>21</integer>
+				</dict>
+			</array>
 		</dict>
 		<dict>
 			<key>ArticulationID</key>
@@ -63,18 +69,20 @@
 			<key>Name</key>
 			<string>Long Arranged</string>
 			<key>Output</key>
-			<dict>
-				<key>MB1</key>
-				<integer>3</integer>
-				<key>Status</key>
-				<string>Note On</string>
-				<key>ValueLow</key>
-				<integer>0</integer>
-			</dict>
+			<array>
+				<dict>
+					<key>MB1</key>
+					<integer>0</integer>
+					<key>Status</key>
+					<string>Note On</string>
+					<key>ValueLow</key>
+					<integer>2</integer>
+				</dict>
+			</array>
 		</dict>
 	</array>
 	<key>Name</key>
-	<string>Albion One Woods High.plist</string>
+	<string>Woods High.plist</string>
 	<key>Switches</key>
 	<array/>
 </dict>
