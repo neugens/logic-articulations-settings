@@ -125,7 +125,6 @@ function HandleMIDI(event) {
     
     } else {
         // any other event, sent unmodified
-        event.trace();
         event.send();
     }
 }
