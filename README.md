@@ -15,7 +15,7 @@ especially if you have a lot of libraries.
 I generally add more as a I use the libraries with the articulations,
 so expect this list to grow over time.
 
-The Spitfire Audio libraries use UACC standard.
+The Spitfire Audio libraries use the UACC KS standard.
 
 If you want to know more about Logic Pro articulation set,
 please refer to this article:
